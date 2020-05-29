@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
-import { FILTERS } from '../../constants/index';
+import { FILTERS } from '../constants/index';
 
 class TodosFilter extends Component {
   state = {
