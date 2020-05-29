@@ -1,3 +1,3 @@
-#React Todo App
+# React Todo App
 
-[DEMO LINK] (https://Aleksandr-Tyagun.github.io/todo-app/)
+[DEMO LINK](https://Aleksandr-Tyagun.github.io/todo-app/)
